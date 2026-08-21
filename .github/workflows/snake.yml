@@ -5,11 +5,21 @@ on:
     - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger
 
+# Grants the workflow permission to push the generated SVGs back to your repo
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # Sets up the git workspace
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generates the snake files
+      - name: Generate SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -18,8 +28,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Pushes the files to the output branch (updated to v4 to clear the warning)
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
