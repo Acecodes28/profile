@@ -80,8 +80,6 @@ Status:    Seeking Software Engineering Internships
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acecodes28&theme=synthwave&hide_border=true&bg_color=0D0221&color=05F2DB&line=FF2FD0&point=ffffff&area=true&area_color=B967FF" alt="Activity Graph" width="95%"/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Acecodes28&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
-
 </div>
 
 <br>
