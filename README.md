@@ -45,7 +45,7 @@ Status:    Seeking Software Engineering Internships
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="550">
 </div>
 
 <br>
@@ -73,10 +73,10 @@ Status:    Seeking Software Engineering Internships
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Acecodes28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&icon_color=05F2DB&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=14400" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&text_color=ffffff&cache_seconds=14400" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Acecodes28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&icon_color=05F2DB&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&text_color=ffffff" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Acecodes28&theme=dark&hide_border=true&background=0D0221&ring=FF2FD0&fire=05F2DB&currStreakLabel=05F2DB&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a9c" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Acecodes28&theme=dark&hide_border=true&background=0D0221&ring=FF2FD0&fire=05F2DB&currStreakLabel=05F2DB&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a9c" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acecodes28&theme=synthwave&hide_border=true&bg_color=0D0221&color=05F2DB&line=FF2FD0&point=ffffff&area=true&area_color=B967FF" alt="Activity Graph" width="95%"/>
 
