@@ -34,11 +34,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acecodes28&show_icons=true&theme=radical&hide_border=false&border_color=39FF14&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=radical&hide_border=false&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Acecodes28&show_icons=true&theme=radical&hide_border=false&border_color=39FF14&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=radical&hide_border=false&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-## 🐍 MINI-GAME (Contribution Grid)
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
