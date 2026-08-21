@@ -38,12 +38,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=radical&hide_border=false&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-## 🐍 Contribution Graph
+## 🐍 MINI-GAME (Contribution Grid)
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acecodes28/Acecodes28/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acecodes28/Acecodes28/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Acecodes28/Acecodes28/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Acecodes28/Acecodes28/blob/output/github-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Acecodes28/Acecodes28/blob/output/github-snake.svg?raw=true">
+    <img alt="github contribution grid snake animation" src="https://github.com/Acecodes28/Acecodes28/blob/output/github-snake.svg?raw=true">
   </picture>
 </div>
