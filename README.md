@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="110" alt="Retro Arcade Ghost"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Retro Arcade Ghost"/>
 
 ### <samp>SOFTWARE ENGINEERING STUDENT</samp>
 
@@ -11,9 +11,9 @@
 ![visitors](https://komarev.com/ghpvc/?username=Acecodes28&style=flat-square&color=ff2fd0&label=PROFILE+VIEWS)
 ![followers](https://img.shields.io/github/followers/Acecodes28?style=flat-square&color=05f2db&labelColor=0d0221&logo=github)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
 </div>
+
+<br>
 
 ## <samp>👾 &nbsp;INSERT COIN — ABOUT ME</samp>
 
@@ -23,7 +23,7 @@ Focus:     Data Structures & Algorithms | Full-Stack Web Development
 Status:    Seeking Software Engineering Internships
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<br>
 
 ## <samp>🛠️ &nbsp;TECH STACK & TOOLS</samp>
 
@@ -42,7 +42,13 @@ Status:    Seeking Software Engineering Internships
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="220">
+</div>
+
+<br>
 
 ## <samp>🚀 &nbsp;FEATURED PROJECTS</samp>
 
@@ -61,14 +67,14 @@ Status:    Seeking Software Engineering Internships
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<br>
 
 ## <samp>📊 &nbsp;HIGH SCORES — GITHUB ANALYTICS</samp>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Acecodes28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&icon_color=05F2DB&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&text_color=ffffff" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Acecodes28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&icon_color=05F2DB&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=14400" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acecodes28&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2FD0&text_color=ffffff&cache_seconds=14400" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acecodes28&theme=dark&hide_border=true&background=0D0221&ring=FF2FD0&fire=05F2DB&currStreakLabel=05F2DB&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a9c" alt="GitHub Streak"/>
 
@@ -78,7 +84,13 @@ Status:    Seeking Software Engineering Internships
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="220">
+</div>
+
+<br>
 
 ## <samp>🐍 &nbsp;CONTRIBUTION GRAPH</samp>
 
@@ -90,12 +102,16 @@ Status:    Seeking Software Engineering Internships
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<br>
 
 <div align="center">
 
 ### <samp>GAME OVER? NAH — <a href="https://github.com/Acecodes28?tab=repositories">CONTINUE ▸</a></samp>
 
 <sub>press <b>F5</b> to insert another coin</sub>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" alt="Retro Arcade Ghost"/>
 
 </div>
